@@ -1,80 +1,25 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
-importance: 1
-category: work
+title: Digital Diss
+description: #
+img: assets/img/digitaldiss.png
+importance: 3
+category: collaborative
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+The [GC Digital Dissertations Resource Guide](https://digitaldiss.commons.gc.cuny.edu/) is a collaborative project co-created with Di Yoong and Zachary Lloyd and is part of Graduate Center Digital Initiatives at CUNY.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+### Project Description
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Over the past 20 years, digital dissertations have become options for generating critical and creative interdisciplinary alternatives to the traditional monograph. Digital dissertations might include incorporating digital methods in a traditional monograph, adding a project site, developing a database, assembling an archive, composing a non-linear digital text, plotting a digital map, recording sound or video for podcasts or analysis, creating digital artwork, building a video game & etc.–the options are endless. Practice-led research and critical making endeavors challenge traditional forms of knowledge production while opening up research topics to new possibilities. This site is a resource for GC PhD students interested in or currently pursuing digital dissertations, as well as staff, faculty, and administrators supporting such student work. The site is organized by project stage. Visitors can also navigate to a consolidated list of resources. The project includes a podcast series with students, faculty, and librarians about digital dissertations at the CUNY Graduate Center.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/digitaldiss-2.png" title="Digital Diss Image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    Screenshot of GC Digital Dissertations Site
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+The launch of this project coincided with the *Dissertation Futures* roundtable. [View](https://digitaldiss.commons.gc.cuny.edu/all-resources/future-of-dissertations/) a recording of our discussion. 

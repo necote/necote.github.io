@@ -1,80 +1,45 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: Diaries to Data
+description: #
+img: assets/img/diaries.png
 importance: 3
-category: fun
+category: independent
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+### Project Description
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+The [Diaries to Data](https://necote.github.io/diariestodata/) project was submitted in partial fulfillment of the MS in Integrated Digital Media at the New York University Tandon School of Engineering.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/diaries-main-vis.png" title="Diary Image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Main Visualization
 </div>
+
+*Diaries to Data* deals with the ways data and visualization are employed to understand human lives, and what can be gained through applying humanistic theory to those practices. It views data creation and visualization as cyclic close-reading processes that can be used to develop interpretation on and engagement with the other. In particular, this project aims to engage these practices to look into the loose-leaf archival objects collected by Katherine Bradley (1846-1914) and Edith Cooper (1862-1913), the aunt and niece (lovers, poets, and diarists) who wrote and lived together as Michael Field. The outputs consist of an exploratory and experimental take on a network graph that examines the topics and sentiments of correspondence and epistolary relationships documented in the Michaels' loose-leaf letters, as well as an open dataset through which viewers might understand how the loose-leaf objects have been classified.
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/diaries-flower-dict.png" title="Dictionary Image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    This image can also have a caption. It's like magic.
+    Flower Dictionary for the Main Visualization
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+The visualization is an experimental take on a network graph; a product of my attempt to apply humanistic visual theory to the visualization process. It is an intentional departure from what is traditionally understood as data visualization. The language of flowers is employed in this work as an unfixed visual language through which viewers can explore my interpretation of the sentiments and topics included in the loose-leaf correspondence. It is also a visual language that was chosen for its particular ties to Michael Field, by their use of flower symbologies in their daily correspondence and in their writing. Viewers are provided with information about the letter-writers in aggregate, through the wreaths that surround their names, and through specific relationships on the vines that connecting two parties.
 
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/diaries-edith.png" title="Dictionary Image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Flower Wreath for Edith Cooper
 </div>
 
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}

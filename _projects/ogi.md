@@ -10,8 +10,8 @@ category: independent
 ### Project Description
 
 Off Grid Investigations (OGI) is a critical exploration in off-grid
-technology that seeks to problematize and speculate around these
-tools for the way they may operate as disaster technologies and for
+technology that seeks to problematize and speculate around the ways these
+tools operate as disaster technologies and for
 the narratives such media produce. By exploring
 through technological production, it uses solar power as its initial
 lens.   
@@ -20,7 +20,7 @@ OGI, a work-in-progress, stands on the shoulders of existing
 innovative creative solar projects like [*Solar
 Protocol*](http://solarprotocol.net/), [*Low Tech
 Magazine*](https://www.lowtechmagazine.com/about.html), and [*Solar
-Powered Media*](https://wp.nyu.edu/solarpoweredmedia/). Soo too is it
+Powered Media*](https://wp.nyu.edu/solarpoweredmedia/). So too is it
 reliant on important discussions and work concerning [minimal
 computing](http://www.digitalhumanities.org/dhq/vol/16/2/000646/000646.html)
 and [low carbon

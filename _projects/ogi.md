@@ -17,10 +17,10 @@ through technological production, it uses solar power as its initial
 lens.   
 
 OGI, a work-in-progress, stands on the shoulders of existing
-innovative creative solar projects like [*Solar
-Protocol*](http://solarprotocol.net/), [*Low Tech
-Magazine*](https://www.lowtechmagazine.com/about.html), and [*Solar
-Powered Media*](https://wp.nyu.edu/solarpoweredmedia/). So too is it
+innovative creative solar projects like [Solar
+Protocol](http://solarprotocol.net/), [Low Tech
+Magazine](https://www.lowtechmagazine.com/about.html), and [Solar
+Powered Media](https://wp.nyu.edu/solarpoweredmedia/). So too is it
 reliant on important discussions and work concerning [minimal
 computing](http://www.digitalhumanities.org/dhq/vol/16/2/000646/000646.html)
 and [low carbon

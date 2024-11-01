@@ -3,7 +3,7 @@ layout: page
 title: VisDepot
 description: #
 img: assets/img/visdepot.png
-importance: 1
+importance: 2
 category: independent
 ---
 

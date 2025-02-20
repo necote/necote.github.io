@@ -16,13 +16,15 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
+(Website currently under revision.)
+
 Nicole Cote is a doctoral candidate at The Graduate Center CUNY, whose
 work centers on the production of public knowledge and understandings
 disaster through the lens of media and information, the history of
 technology, and STS. She is currently investigating the historical and
 contemporary entanglements of media, technology, and cultural work
 that shape how natural hazards and disasters are understood and made
-actionable in the public sphere--and their possible refigurings. She
+actionable in the public sphere--as well as their possible refigurings. She
 also works widely on applied digital media and digital humanities
 projects and teaches digital skills. 
 

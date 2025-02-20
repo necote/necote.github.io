@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: #/teaching/
 title: teaching
 description: #
-nav: true
+nav: false
 nav_order: 5
 ---
 

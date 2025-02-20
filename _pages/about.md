@@ -18,13 +18,13 @@ social: false  # includes social icons at the bottom of the page
 
 Nicole Cote is a doctoral candidate at The Graduate Center CUNY, whose
 work centers on the production of public knowledge and understandings
-of disaster through the lens of media and information, the history of
-technology, art, and STS. She is currently investigating the
-historical and contemporary entanglements of media, technology, and
-cultural work that shape how “natural” disasters are understood in the
-public sphere--and how they might be refigured. She also works widely
-on applied digital media and digital humanities projects and teaches
-digital skills. 
+disaster through the lens of media and information, the history of
+technology, and STS. She is currently investigating the historical and
+contemporary entanglements of media, technology, and cultural work
+that shape how natural hazards and disasters are understood and made
+actionable in the public sphere--and their possible refigurings. She
+also works widely on applied digital media and digital humanities
+projects and teaches digital skills. 
 
 During the 2024-2025 academic year, Nicole will be a short-term Dibner
 Research [Fellow](https://huntington.org/awarded-fellowships) in the
@@ -58,6 +58,8 @@ Graduate Center as well as a Visiting Assistant Professor in the MS
 Program in Data Analytics and Visualization at the Pratt Institute
 School of Information. 
 
-Nicole holds an MS from the NYU Tandon School of Engineering and an MSc by Research from the University of Edinburgh’s School of Literatures, Languages, and Cultures.
+Nicole holds an MS from the NYU Tandon School of Engineering and an
+MSc by Research from the University of Edinburgh’s School of
+Literatures, Languages, and Cultures.
 
 Contact: ncote (at) gradcenter (dot) cuny (dot) edu

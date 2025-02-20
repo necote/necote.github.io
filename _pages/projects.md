@@ -1,9 +1,9 @@
 ---
 layout: page
-title: projects
+title: #projects
 permalink: /projects/
 description: #
-nav: true
+nav: false
 nav_order: 2
 display_categories: [independent, collaborative]
 horizontal: false
